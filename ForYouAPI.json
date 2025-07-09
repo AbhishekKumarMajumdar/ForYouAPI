@@ -1,0 +1,24 @@
+{
+  "greeting": "Hey Love ❤️",
+  "coverImage": "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca",
+  "startDate": "2024-09-23",
+  "anniversaryDate": "2025-09-23",
+  "nextMeetupDate": "2025-08-15",
+  "moodBoard": [
+    "https://picsum.photos/id/150/100/100",
+    "https://picsum.photos/id/151/100/100",
+    "https://picsum.photos/id/152/100/100",
+    "https://picsum.photos/id/153/100/100"
+  ],
+  "whyILoveYou": [
+    "💖 You listen without judging",
+    "😊 You make every day brighter",
+    "🌈 You believe in me",
+    "❤️ You always support me"
+  ],
+  "loveCalendar": [
+    "23 Sep ❤️",
+    "14 Feb 💌",
+    "10 Oct 🎁"
+  ]
+}
