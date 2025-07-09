@@ -1,24 +1,52 @@
 {
-  "greeting": "Hey Love ❤️",
-  "coverImage": "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca",
-  "startDate": "2024-09-23",
-  "anniversaryDate": "2025-09-23",
-  "nextMeetupDate": "2025-08-15",
-  "moodBoard": [
-    "https://picsum.photos/id/150/100/100",
-    "https://picsum.photos/id/151/100/100",
-    "https://picsum.photos/id/152/100/100",
-    "https://picsum.photos/id/153/100/100"
-  ],
-  "whyILoveYou": [
-    "💖 You listen without judging",
-    "😊 You make every day brighter",
-    "🌈 You believe in me",
-    "❤️ You always support me"
-  ],
-  "loveCalendar": [
-    "23 Sep ❤️",
-    "14 Feb 💌",
-    "10 Oct 🎁"
-  ]
+  "home": {
+    "greeting": "Hey Love ❤️",
+    "coverImage":"https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+    "startDate": "2024-09-23",
+    "anniversaryDate": "2025-09-23",
+    "nextMeetupDate": "2024-12-15",
+    "moodBoard": [
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg"
+    ],
+    "whyILoveYou": [
+      "Your smile brightens my day.",
+      "You always support me.",
+      "You're my favorite person.",
+      "You understand me like no one else."
+    ],
+    "loveCalendar": [
+      "Rose Day", "Promise Day", "Hug Day", "Valentine's Day"
+    ]
+  },
+  "surprise": {
+    "title": "Surprise Gift",
+    "image": "https://example.com/surprise.jpg",
+    "description": "A special something for you!"
+  },
+  "event": {
+    "upcoming": [
+      {
+        "title": "Your Birthday",
+        "date": "2024-10-25",
+        "image": "https://example.com/birthday.jpg"
+      },
+      {
+        "title": "Anniversary Celebration",
+        "date": "2025-09-23",
+        "image": "https://example.com/anniversary.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "images": [
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+      "https://res.cloudinary.com/dhphodaof/image/upload/v1751865418/WhatsApp_Image_2025-01-02_at_22.04.42_06061940_i83jaz.jpg",
+    
+    ]
+  }
 }
